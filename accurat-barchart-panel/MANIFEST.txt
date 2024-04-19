@@ -8,17 +8,17 @@ Hash: SHA512
   "signedByOrg": "stefanogallo",
   "signedByOrgName": "stefanogallo",
   "rootUrls": [
-    "https://stefanogallo.grafana.net/"
+    "https://grafana.ocsddna.net/"
   ],
   "plugin": "accurat-barchart-panel",
   "version": "1.0.0",
-  "time": 1713454487939,
+  "time": 1713521175791,
   "keyId": "7e4d0c6a708866e7",
   "files": {
     "LICENSE": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851",
     "CHANGELOG.md": "aaa78be4710ef41d56ddab1edbd180ef9f9adfea2f293109aae925dc33a1b9b3",
     "module.js.map": "73305d471846fa98c70becc4bb3a8e6857e6282c7d423b1334572627b5824b67",
-    "plugin.json": "75e6eec1ba4ae51f44b2c565863f832bd9d157fe9e4f89456013f8ff02e3d8c1",
+    "plugin.json": "ad1674561f878310071d159578d0332705500d7d5f24563f1fe7116d616ec32d",
     "README.md": "af3f08d361058b13b88f56bce88f2071e913831cabdd1632a33c42cbcbc1e024",
     "img/logo.svg": "1defc6f7e585c67657bcfd8fddc599ee7dfa82f8674413f49fa274c2cd453ec6",
     "module.js": "df16a9036ae18b684be6b228ef80624be97278918e91302c2980f799c4eafdeb"
@@ -28,10 +28,10 @@ Hash: SHA512
 Version: OpenPGP.js v4.10.11
 Comment: https://openpgpjs.org
 
-wrkEARMKAAYFAmYhPZgAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
-cIhm5zBwAgkAN0vdOPyDagT8SweHV/qjG0NrQW6oa9M9wavr5n1vBwCvcpZb
-/iQfEOX2TghljpfOpepz1Hp9JUy6fPpa/pAjeDICCQBFLHHuVWV5d5okDFQf
-8cVt/JSRQntba5FSUr1HTRW3jzAgD4LsYVzFMbtXNfnWXRsNRZWOKz/IMj0B
-jk49/jB/bw==
-=Uje1
+wrkEARMKAAYFAmYiQhgAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm52UBAgkAqQx08q+aVTkkUNWKWk04c+9M/j6NYQCr5FQNVWi/DtxfzMGi
+IKJxY1b0EpsK5hz2Ip8lwguZyiVm/3cUJUYMfwICCQB5/XzT5SOQROjA0urW
+Sbg4Bvb1FOBHGT4cgu5uKG16LD4K5+mKPn/jittVKjOaN4t0NuZSJoMQG9fp
+wFk7pyvnVg==
+=9/gY
 -----END PGP SIGNATURE-----
